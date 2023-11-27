@@ -18,6 +18,6 @@ https://www.aliexpress.com/item/1005005486458306.html?spm=a2g0o.productlist.main
 Using the following guide for setup:
 https://mellow.klipper.cn/#/advanced/usb_adxl
 
-With thanks to Bassamanator, Kyleisah and Rory Game for making it very easy to do this
+With thanks to Bassam Husain, Kyleisah and Rory Game for making it very easy to do this
 
 Andre
