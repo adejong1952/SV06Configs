@@ -1,7 +1,7 @@
 # SV06Configs
 Klipper configuration backups for my SV06
 
-These are my Klipper configurations ysed on my SV06
+These are my Klipper configurations used on my SV06
 
 Klipper was setup using the following guide:
 https://github.com/bassamanator/Sovol-SV06-firmware/tree/master?fbclid=IwAR0C5zNGOiNTOKeUYBPoMBs3yWyxRIRLDayiZbfJK1yrwB0k1KPtv1X5D3M
