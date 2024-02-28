@@ -2,4 +2,4 @@
  adxl_results/belts/*.csv
  adxl_results/vibrations/*.tar.gz
  printer-20*.cfg
- /cfgs/z_tilt_via_probe.cfg
+ /config/cfgs/z_tilt_via_probe.cfg
